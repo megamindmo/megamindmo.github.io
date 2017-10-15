@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Geo-Share</title>
+</head>
+
+<body>
+<h1>Mission</h1>
+<p>Our mission is to enable the sharing of geospatial data in a manner that is both accessible and free for all users</p>
+</body>
+
+</html>
